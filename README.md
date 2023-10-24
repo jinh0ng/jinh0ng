@@ -24,7 +24,7 @@
 
 ### BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilyhong511)](https://solved.ac/lilyhong511/)
-![jinh0ng profile](http://mazandi.herokuapp.com/api?handle={lilyhong511}&theme=dark)
+![jinh0ng profile](http://mazandi.herokuapp.com/api?handle=lilyhong511&theme=dark)
   </br></br>
   
 ### Github Status
