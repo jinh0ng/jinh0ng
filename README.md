@@ -24,13 +24,16 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 
-## Project
+### Project
 * [2022.01] 42Seoul La'Piscine (private)
 
-## Learning
+### Learning
 * [2022.01]   42Seoul La'Piscine 6기 1차 피시너
 * [2022.03 ~] 42Seoul Cursus 6기 카뎃
 
 
-## Github Status
+### BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/lilyhong511/)
+
+### Github Status
 ![jinh0ng's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinh0ng&theme=gruvbox&show_icons=true)
