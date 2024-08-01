@@ -1,8 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=Yejin%20Hong!&animation=fadeIn&fontColor=FFFFFF)
 ## I'm Yejin Hong, Nice to meet you! 👋 
-  - Korea Univ. CYDF
+  - Korea Univ. CYDF [2021.03~ ]
   - Sangsan 37th
-  - Studied abroad in UT Austin, ECE. 
+  - Studied abroad in UT Austin, ECE. [2023.Fall ~ 2024.Spring]
 
 <img src="https://img.shields.io/badge/42seoul-yejhong-orange.svg"/> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyejinhong05&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
