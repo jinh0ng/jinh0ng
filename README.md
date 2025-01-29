@@ -3,6 +3,7 @@
   - Korea Univ. CYDF [2021.03~ ]
   - Sangsan 37th
   - Studied abroad in UT Austin, ECE. [2023.Fall ~ 2024.Spring]
+  - AI Safety Lab Intern. [2023.08 ~]
 
 <img src="https://img.shields.io/badge/42seoul-yejhong-orange.svg"/> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyejinhong05&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
