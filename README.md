@@ -5,14 +5,19 @@
   - Studied abroad in UT Austin, ECE. [2023.Fall ~ 2024.Spring]
   - Trustworthy AI Lab Intern. [2023.08 ~]
 
+[![Instagram](https://img.shields.io/badge/instagram-BA189A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jin_h0ng05/)](https://www.instagram.com/jin_h0ng05/)
+[![Mail](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lilyhong511@korea.ac.kr)](mailto:lilyhong511@korea.ac.kr)
+
 <img src="https://img.shields.io/badge/42seoul-yejhong-orange.svg"/> 
   </br></br>
+  
 ## Skill 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  </br></br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-181a1f?style=for-the-badge&logo=react)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 
 ### Project
 * [2022.01] 42Seoul La'Piscine (private)
