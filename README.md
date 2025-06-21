@@ -5,8 +5,7 @@
   - Studied abroad in UT Austin, ECE. [2023.Fall ~ 2024.Spring]
   - Trustworthy AI Lab Intern. [2023.08 ~]
 
-<img src="https://img.shields.io/badge/42seoul-yejhong-orange.svg"/> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyejinhong05&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
+<img src="https://img.shields.io/badge/42seoul-yejhong-orange.svg"/> 
   </br></br>
 ## Skill 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
