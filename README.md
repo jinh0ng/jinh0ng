@@ -3,7 +3,7 @@
   - Korea Univ. CYDF [2021.03~ ]
   - Sangsan 37th
   - Studied abroad in UT Austin, ECE. [2023.Fall ~ 2024.Spring]
-  - Trustworthy AI Lab Intern. [2023.08 ~]
+  - Trustworthy AI Lab Intern. [2023.09 ~]
 
 [![Instagram](https://img.shields.io/badge/instagram-BA189A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jin_h0ng05/)](https://www.instagram.com/jin_h0ng05/)
 [![Mail](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lilyhong511@korea.ac.kr)](mailto:lilyhong511@korea.ac.kr)
@@ -17,6 +17,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-181a1f?style=for-the-badge&logo=react)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
 ### Project
